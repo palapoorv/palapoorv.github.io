@@ -240,13 +240,13 @@ body {
 
 @media (max-width: 991px) {
 	#slide-1 {
-		background-position: -70% 0, 170% 0;
+		/*background-position: -70% 0, 170% 0;*/
 	}
 }
 
 @media (max-width: 767px) {
 	#slide-1 {
-		background-image: none;
+		/*background-image: none;*/
 	}
 }
 
