@@ -1,0 +1,63 @@
+.wow:first-child {
+  visibility: hidden;
+}
+
+#slide-1 .animation.animated-item-1 {
+  -webkit-animation: fadeInDown 300ms linear 300ms both;
+  -moz-animation: fadeInDown 300ms linear 300ms both;
+  -o-animation: fadeInDown 300ms linear 300ms both;
+  -ms-animation: fadeInDown 300ms linear 300ms both;
+  animation: fadeInDown 300ms linear 300ms both;
+}
+
+#slide-1 .animation.animated-item-2 {
+  -webkit-animation: fadeInDown 300ms linear 600ms both;
+  -moz-animation: fadeInDown 300ms linear 600ms both;
+  -o-animation: fadeInDown 300ms linear 600ms both;
+  -ms-animation: fadeInDown 300ms linear 600ms both;
+  animation: fadeInDown 300ms linear 600ms both;
+}
+
+#slide-1 .animation.animated-item-3 {
+  -webkit-animation: fadeInDown 300ms linear 900ms both;
+  -moz-animation: fadeInDown 300ms linear 900ms both;
+  -o-animation: fadeInDown 300ms linear 900ms both;
+  -ms-animation: fadeInDown 300ms linear 900ms both;
+  animation: fadeInDown 300ms linear 900ms both;
+}
+
+#slide-1 .animation.animated-item-4 {
+  -webkit-animation: fadeInDown 300ms linear 1200ms both;
+  -moz-animation: fadeInDown 300ms linear 1200ms both;
+  -o-animation: fadeInDown 300ms linear 1200ms both;
+  -ms-animation: fadeInDown 300ms linear 1200ms both;
+  animation: fadeInDown 300ms linear 1200ms both;
+}
+
+#slide-1 .animation.animated-item-5 {
+  -webkit-animation: fadeInDown 300ms linear 1500ms both;
+  -moz-animation: fadeInDown 300ms linear 1500ms both;
+  -o-animation: fadeInDown 300ms linear 1500ms both;
+  -ms-animation: fadeInDown 300ms linear 1500ms both;
+  animation: fadeInDown 300ms linear 1500ms both;
+}
+
+#slide-2 .animation.generic-animation {
+    -webkit-animation: fadeInDown 1000ms linear 600ms both;
+    -moz-animation: fadeInDown 1000ms linear 600ms both;
+    -o-animation: fadeInDown 1000ms linear 600ms both;
+    -ms-animation: fadeInDown 1000ms linear 600ms both;
+    animation: fadeInDown 1000ms linear 600ms both;
+}
+
+#slide-2 .animation.emaphasize {
+    -webkit-animation: tada 1000ms linear 1600ms both;
+    -moz-animation: tada 1000ms linear 1600ms both;
+    -o-animation: tada 1000ms linear 1600ms both;
+    -ms-animation: tada 1000ms linear 1600ms both;
+    animation: tada 1000ms linear 1600ms both;
+}
+
+#slide-2 .wow.animation.emaphasize:first-child {
+    visibility: visible;
+}
